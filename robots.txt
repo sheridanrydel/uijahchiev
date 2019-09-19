@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tohfienad.alba1004.kr/sitemap.xml
